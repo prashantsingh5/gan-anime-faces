@@ -21,7 +21,7 @@ pip install torch torchvision matplotlib numpy scipy scikit-learn
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/prashantsingh5/gan-anime-faces.git)
    cd gan-anime-faces
    ```
 
